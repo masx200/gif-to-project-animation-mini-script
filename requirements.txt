@@ -7,7 +7,7 @@ contourpy==1.2.0
 cycler==0.12.1
 docopt==0.6.2
 fonttools==4.50.0
-idna==3.6
+idna==3.7
 isort==5.13.2
 kiwisolver==1.4.5
 matplotlib==3.8.3
@@ -16,12 +16,12 @@ mypy-extensions==1.0.0
 numpy==1.26.4
 packaging==24.0
 pathspec==0.12.1
-Pillow==10.2.0
+Pillow==10.3.0
 pipreqs==0.5.0
 platformdirs==4.2.0
 pyparsing==3.1.2
 python-dateutil==2.9.0.post0
-requests==2.31.0
+requests==2.32.0
 six==1.16.0
 types-Pillow==10.2.0.20240324
 typing_extensions==4.10.0
